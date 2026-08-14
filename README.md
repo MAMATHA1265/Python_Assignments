@@ -1,6 +1,6 @@
 #Python Lessons
 This repository contains my Python
-practice assignmrnts.
+practice assignments.
 Topics covered:
 #Basic python
 #Decision Making Statements
